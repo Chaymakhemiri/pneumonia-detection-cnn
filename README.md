@@ -5,12 +5,14 @@ This project focuses on detecting **pneumonia from chest X-ray images** using de
 Several CNN-based architectures were implemented and compared to identify the most effective model.
 
 ## Dataset
-- **Source**: Kaggle – Pediatric Chest X-ray Dataset
-- **Images**: 5,863 chest X-ray images
+- **Name**: Pediatric Chest X-ray (Pneumonia)
+- **Source**: Kaggle
+- **Link**: https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
+- **Total Images**: 5,863
 - **Classes**: Normal, Pneumonia
-- **Patients**: Children aged 1–5 years
 
-> Dataset is not included in this repository due to size constraints.
+> The dataset is not included in this repository due to size limitations.
+> Please download it directly from Kaggle and place it in the appropriate directory if you wish to run the notebook locally.
 
 ## Models Implemented
 - Custom CNN
