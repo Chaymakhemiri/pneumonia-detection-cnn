@@ -48,3 +48,6 @@ Several CNN-based architectures were implemented and compared to identify the mo
 
 ## How to Run
 ```bash
+1. Download the dataset from Kaggle.
+2. Open `Pneumonia_Detection.ipynb` and run all cells.
+
